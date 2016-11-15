@@ -12,4 +12,8 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 =======
 git merge no ff
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+ni hao
 >>>>>>> dev
